@@ -57,7 +57,7 @@ printf("\nAverage Turnaround Time=%f\n",avg_tat);
 ## RESULT:
 First-Come-First-Serve Scheduling is implemented successfully.
 
-## Shortest Job First (SJF) Preemptive Scheduling
+# Shortest Job First (SJF) Preemptive Scheduling
 
 ## AIM:
 To implement Shortest Job First (SJF) Preemptive Scheduling
@@ -153,7 +153,7 @@ printf("\nAverage Turnaround Time=%f\n",avg_tat);
 ## RESULT:
 Shortest Job First (SJF) preemptive scheduling is implemented successfully.
 
-## Shortest Job First (SJF) Non-Preemptive Scheduling
+# Shortest Job First (SJF) Non-Preemptive Scheduling
 
 ## AIM: 
 To implement Shortest Job First (SJF) Non-Preemptive Scheduling
@@ -239,7 +239,7 @@ if __name__ == "__main__":
 ## RESULT:
 Shortest Job First (SJF) Non-preemptive scheduling is implemented successfully.
 
-## Round Robin (RR) Scheduling
+# Round Robin (RR) Scheduling
 
 ## AIM: 
 To implement Round Robin (RR) Scheduling
@@ -340,7 +340,7 @@ int main() {
 Round Robin (RR) Scheduling is implemented successfully.
 
 
-## Priority Preemptive Scheduling
+# Priority Preemptive Scheduling
 ## AIM: 
 To implement Priority Preemptive Scheduling
 
@@ -418,7 +418,7 @@ if __name__ == "__main__":
 ## RESULT: 
 Priority Preemptive scheduling is implemented successfully.
 
-## Priority Non-Preemptive Scheduling
+# Priority Non-Preemptive Scheduling
 
 ## AIM: 
 To implement Priority Non-Preemptive Scheduling
